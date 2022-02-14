@@ -8,5 +8,4 @@ Such a characteristic can be artificially created for electronically interfaced 
                                                  
                                                𝑣𝑟𝑒𝑓= 𝑣𝑛𝑜𝑚𝑖𝑛𝑎𝑙−𝑛𝑞∗𝑄
                                                
-                                               ![image](https://user-images.githubusercontent.com/99066992/153824360-2714670f-e28e-48a3-a9a6-e766a0f304ae.png)
 
